@@ -1,0 +1,35 @@
+.contenedor{
+width:100% ;
+height: 1200px;
+background-color: rgb(250, 222, 231);
+display:flex ;
+flex-direction: column;
+text-align: center;
+
+}
+.encabezado{
+width:100% ;
+height: 150px;
+background-color: rgb(253, 165, 202);
+font-size: 50px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: aliceblue;
+}
+.Tecnologia{
+width: 100%;
+height: 400px;
+background-color: rgb(248, 124, 175);
+
+}
+.Sociales{
+width: 100%;
+height: 400px;
+background-color: rgb(218, 70, 144);
+
+}
+.Ingles{
+width: 100%;
+height: 400px;
+background-color: rgb(189, 10, 85);
+
+}
